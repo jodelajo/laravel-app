@@ -18,8 +18,8 @@
     <p>No listings found</p>
 @endunless
 
-@php
+{{-- @php
 $test = 1;
 @endphp
 
-{{ $test }}
+{{ $test }} --}}
